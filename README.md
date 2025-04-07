@@ -1,0 +1,5 @@
+![POST](https://github.com/user-attachments/assets/023caade-be32-496a-9c45-384432a773f1)
+![GET](https://github.com/user-attachments/assets/a8d0f802-237a-4188-8022-b99bdaa3377b)
+![GET By ID](https://github.com/user-attachments/assets/08b0b592-4186-4bb1-832e-a4269fc55631)
+![PATCH](https://github.com/user-attachments/assets/10219e8e-fd14-477f-99e5-ba64975fb491)
+![DELETE](https://github.com/user-attachments/assets/47de7d3e-003f-4d5e-a4d6-daf2988756a3)
